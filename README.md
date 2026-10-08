@@ -46,7 +46,7 @@ This repository delivers an end-to-end, enterprise-grade **Big Data Analytics & 
 | Avatar / Role | Member Name | Core Responsibilities & Contributions |
 | :---: | :--- | :--- |
 | 👑 **Team Leader** | **Omar Mahmoud Elsayed** | Team Leader • Presentation • EDA & Feature Engineering |
-| ⚡ **Spark SQL Lead** | **Omar Hassan Ibrahim** | Spark SQL Queries, Aggregations & Analytical Views |
+| ⚡ **Spark SQL Lead** | **Omar_Hassan Ibrahim** | Spark SQL Queries, Aggregations & Analytical Views |
 | 🐘 **Data Engineer** | **Amr Mostafa Mohamed** | HDFS Storage Cluster Setup & Data Preprocessing Pipeline |
 | 📊 **Viz Specialist** | **Omar Emad Salah** | Executive Presentation Deck & Data Visualizations |
 | 🧠 **ML Specialist** | **Ewan Hany** | Spark MLlib & XGBoost Machine Learning Models |
